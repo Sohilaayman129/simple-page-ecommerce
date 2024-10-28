@@ -1,0 +1,22 @@
+ 
+:root{
+    
+    --font-family: "Encode Sans Expanded ",sans-serif;
+}
+body {
+    background-color: #ececec ;
+    font-family: var(--font-family) !important;
+  }
+
+.product{
+border-radius:30px ;
+background-color: white;
+ transition: box-shadow .5s ;
+}
+.product:hover{
+box-shadow:1px 1px 1px 1px  #edcc4bda;;
+}
+  .cursor {
+    cursor: pointer;
+  }
+  

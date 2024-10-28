@@ -1,0 +1,11 @@
+ .btn:active {
+    border-color:transparent;
+}
+
+.hover :hover {
+  background: rgba(255, 218, 144, 0.647);
+  animation: bouncex .3s ease-in-out ;
+  
+} 
+
+
