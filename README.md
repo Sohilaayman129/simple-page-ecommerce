@@ -2,7 +2,7 @@
   
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
-I will make a simple ecommerce that displays products to the user and each product has its price,evaluation and category.I can search by name of the product .The project is responsive on all devices.
+I made a simple ecommerce that displays products to the user and each product has its price,evaluation and category.You can search by name of the product .The project is responsive on all devices.
 
 *Technologies used*: **Angular 17**, Bootstrap,Routing, Fontawesome,Api integration,Scss, pipes ,loading for each product until it comes.
 **interceptors** We will handel the error from one place,SweetAlert2 and the **signals**.
