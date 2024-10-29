@@ -4,8 +4,8 @@
 
 I will make a simple ecommerce that displays products to the user and each product has its price,evaluation and category.I can search by name of the product .The project is responsive on all devices.
 
-We used **Angular**, Bootstrap, Fontawesome,Api integration,Scss, pipes ,loading for each product until it comes.
-**interceptors** We will handel the error from one place,the SweetAlert2 and the **signal**.
+*Technologies used*: **Angular 17**, Bootstrap,Routing, Fontawesome,Api integration,Scss, pipes ,loading for each product until it comes.
+**interceptors** We will handel the error from one place,SweetAlert2 and the **signals**.
  this a big **challenge** to implement the project without Figma and maintain it Response.  
 
 
