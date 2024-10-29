@@ -1,10 +1,10 @@
-# Ecommerceproduct💙
+# Ecommerceproducts💙
   
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
 I will make a simple ecommerce that displays products to the user and each product has its price,evaluation and category.I can search by name of the product .The project is responsive on all devices.
 
-We used **Anular**, Bootstrap, Fontawesome,Api integration,Scss, pipes ,loading for each product until it comes.
+We used **Angular**, Bootstrap, Fontawesome,Api integration,Scss, pipes ,loading for each product until it comes.
 **interceptors** We will handel the error from one place,the SweetAlert2 and the **signal**.
  this a big **challenge** to implement the project without Figma and maintain it Response.  
 
