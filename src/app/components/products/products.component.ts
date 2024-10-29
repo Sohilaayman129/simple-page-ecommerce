@@ -14,7 +14,7 @@ import { Subscription } from 'rxjs';
   styleUrl: './products.component.scss'
 })
 export class ProductsComponent implements OnInit, OnDestroy {
-[x: string]: any;
+
   private readonly _ProductService=inject(ProductService);
   name:WritableSignal<string>=signal(" ")
 
