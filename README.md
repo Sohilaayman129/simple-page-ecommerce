@@ -17,18 +17,17 @@ I will make a simple ecommerce that displays products to the user and each produ
 *  *we using* **signals** 
 ```Typescript
 
-loading:writablesignals<any>=signal(any)
+loading:writablesignals<boolean>=signal(false)
 
 ``` 
 * writing in *app.component.scss*  to handel selector for **footer**
 
 ```Scss
 :host{
-    display:flex;
-    direction:column;
-    justify-content:center;
-    min-hight:100vh;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
 }
 
 ```
